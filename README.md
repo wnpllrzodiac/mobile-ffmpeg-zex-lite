@@ -13,3 +13,7 @@ v1.0.5 fix volumedetect filter problem
 
 2021.4.20  
 v1.0.6 fix ios h264_videotoolbox encoder NOT enable problem, fix negatime time info in log callback  
+
+2021.5.11  
+v1.0.7 fix anullsrc codec pcm_u8 not found problem  
+
