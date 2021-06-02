@@ -17,3 +17,7 @@ v1.0.6 fix ios h264_videotoolbox encoder NOT enable problem, fix negatime time i
 2021.5.11  
 v1.0.7 fix anullsrc codec pcm_u8 not found problem  
 
+2021.6.2  
+v1.0.8 fix s16le muxer missing  
+
+
