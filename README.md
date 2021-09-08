@@ -19,5 +19,8 @@ v1.0.7 fix anullsrc codec pcm_u8 not found problem
 
 2021.6.2  
 v1.0.8 fix s16le muxer missing  
-
+  
+2021.9.8  
+v1.0.9 support webp animation  
+  
 
